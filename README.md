@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Youtube Shorts Clone](https://youtube-shorts-clone.vercel.app/)
+# [DSTV Shorts Clone](https://youtube-shorts-clone.vercel.app/)
 
 ![](https://raw.githubusercontent.com/itsme-Subid/Youtube-Shorts-Clone/main/preview.webp)
 ![](https://img.shields.io/github/languages/top/itsme-Subid/Youtube-Shorts-Clone?style=for-the-badge)
@@ -12,7 +12,7 @@
 
 </div>
 
-Welcome to the Youtube-Shorts-Clone repository! Youtube-Shorts-Clone is a visually stunning website built using Next.js, TypeScript, and Styled-Components. The project is a front-end development endeavor and can be found on [GitHub](https://github.com/itsme-Subid/Youtube-Shorts-Clone).
+Welcome to the DSTV-Shorts repository!  DSTV-Shorts is a visually stunning website built using Next.js, TypeScript, and Styled-Components. The project is a front-end development endeavor and can be found on [GitHub] (https://github.com/faneleedison-ux/dstvshorts)).
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ To get started, you can simply clone this repository and install the dependencie
 To clone the repository, you will need to have git installed on your machine. Once you have those, you can use the following commands:
 
 ```bash
-git clone https://github.com/itsme-Subid/Youtube-Shorts-Clone.git
+git clone https://github.com/itsme-Subid/dstvshorts.git
 ```
 
 ### Running the Project
@@ -39,7 +39,7 @@ npm run dev
 or, if you are using yarn:
 
 ```bash
-cd Youtube-Shorts-Clone
+cd dstvshorts
 yarn
 yarn run dev
 ```
